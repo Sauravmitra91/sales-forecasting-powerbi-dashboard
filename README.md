@@ -43,4 +43,5 @@ This project focuses on analyzing retail sales data to identify trends, patterns
 - Dataset (CSV)  
 
 ---
+![Dashboard](dashboard.png)
 
